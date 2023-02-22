@@ -1,3 +1,3 @@
 <?php
 
-echo "2/22: Hello World! Version4. Deployment through github works";
+echo "2/22: Hello World! Version 5: manualy deployment push";
